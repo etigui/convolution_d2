@@ -11,3 +11,10 @@ Pour effectuer la convolution en appliquant le kernel sur notre image, on s’es
 Voici de manière plus concrète comment la fonction précitée a été utilisée pour traiter l’image.
 
 ![Convolution](/images/conv.png)
+
+## Calcul des performances
+Les tests de performance ont été effectué avec l’image fournie par un ordinateur doté d’un processeur quad core (i72670QM @2.2GHz). Chaque filtre a été appliqué trois fois sur l’image afin d’obtenir les résultats cohérents suivants en milliseconde :
+
+![Performances table](/images/tab.png)
+
+![Performances graph](/images/graph.png)
