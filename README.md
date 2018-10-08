@@ -18,3 +18,6 @@ Les tests de performance ont été effectué avec l’image fournie par un ordin
 ![Performances table](/images/tab.png)
 
 ![Performances graph](/images/graph.png)
+
+## Rapport
+[Pour plus d‘informations](/doc/Rapport_TP_GuignardE.pdf)
